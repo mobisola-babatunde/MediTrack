@@ -14,7 +14,7 @@
 - [Contact Information](#contact-information)
 
 ### Project Overview:
-## Goals: 
+## Objectives: 
 - Increase medication adherence rates 
 - Enhance patient engagement
 
