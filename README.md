@@ -27,9 +27,9 @@ The MediTrack project is a digital medication adherence solution designed to bri
 
 ### Wireframes & UI/UX Designs
 Here are the wireframes and UI/UX designs for the app:
-- Wireframes:
+- **Wireframes:**
 
-- High-Fidelity UI Designs:
+- **High-Fidelity UI Designs:**
 
 ### Technology Stack
 This section outlines the technology that the app will be built upon:
