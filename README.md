@@ -14,14 +14,16 @@
 - [Contact Information](#contact-information)
 
 ### Project Overview:
-## Objectives: 
+
+The MediTrack project is a digital medication adherence solution designed to bridge the gap between chronic patients and healthcare providers by simplifying medication management and improving adherence. The app allows patients to input medication schedules, receive reminders, and track adherence over time. Healthcare providers gain access to adherence reports, enabling them to monitor patients' progress and intervene as needed. The project prioritizes ease of use, especially for less tech-savvy users, while ensuring compliance with data protection standards such as HIPAA. MediTrack aims to enhance patient engagement, increase adherence rates, and streamline the patient-provider relationship through a seamless, connected experience.
+## Goals: 
 - Increase medication adherence rates 
 - Enhance patient engagement
 
 ## **Key Features**
-1. **Medication reminders:** Ensures patients receive timely reminders to take their medications.
-1. **Medication regimen setup:** Allows patients to easily input and manage their medication schedules.
-1. **Patient adherence monitoring:** Enables healthcare providers to track their patients' adherence remotely.
+1. **Personalized medication reminders:** Ensures patients receive timely reminders to take their medications.
+1. **Simple medication regimen setup:** Allows patients to easily input and manage their medication schedules.
+1. **Patient adherence monitoring for healthcare providers:** Enables healthcare providers to track their patients' adherence remotely.
 
 ### Wireframes & UI/UX Designs
 Here are the wireframes and UI/UX designs for the app:
@@ -53,8 +55,13 @@ Currently, I am looking for a developer who can implement the frontend and backe
 
 ### Lessons Learned:
 
+- **User-Centric Design is Crucial:** Throughout the development process, user feedback from both patients and healthcare providers highlighted the importance of simplicity and ease of use. This insight informed design decisions, underscoring the need to prioritize user experience, particularly for less tech-savvy individuals.
+- **Balancing Features and Core Functionality:** It became apparent that focusing on core features, such as medication reminders and provider monitoring, was more valuable than overloading the app with additional features. This decision not only streamlined development but also ensured that the app remained user-friendly while addressing its primary objectives.
+- **Importance of Compliance and Security:** Integrating HIPAA-compliant features added complexity to the development process, but it was essential in building trust with healthcare providers and ensuring data privacy for patients. Prioritizing security early in the design phase saved time and mitigated risks later in development.
+- **Real-World Testing Provides Valuable Insights:** Testing in real-life scenarios with actual users led to crucial design changes that enhanced usability. This highlighted the importance of validating theoretical assumptions with practical, real-world user feedback.
+
 ### Future Plans
-1. **Adherence report:** This feature is deferred to later iterations to maintain focus on the core needs.
+1. **Adherence report generation for healthcare providers:** This feature is deferred to later iterations to maintain focus on the core needs.
 1. **Medication intake tracking:** While useful, this feature is not prioritized for the initial version.
 
 ### Contributing
@@ -71,4 +78,3 @@ If you'd like to contribute to the development of the HolistiqCare App, please f
 For any questions, feedback, or collaboration requests, feel free to reach out:
 - Email: babatunde.bisola@gmail.com
 - LinkedIn: www.linkedin.com/in/mobisola-babatunde
-
