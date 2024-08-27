@@ -19,9 +19,9 @@
 - Enhance patient engagement
 
 ## **Key Features**
-1. **Personalized medication reminders:** Ensures patients receive timely reminders to take their medications.
-1. **Simple medication regimen setup:** Allows patients to easily input and manage their medication schedules.
-1. **Patient adherence monitoring for healthcare providers:** Enables healthcare providers to track their patients' adherence remotely.
+1. **Medication reminders:** Ensures patients receive timely reminders to take their medications.
+1. **Medication regimen setup:** Allows patients to easily input and manage their medication schedules.
+1. **Patient adherence monitoring:** Enables healthcare providers to track their patients' adherence remotely.
 
 ### Wireframes & UI/UX Designs
 Here are the wireframes and UI/UX designs for the app:
@@ -54,7 +54,7 @@ Currently, I am looking for a developer who can implement the frontend and backe
 ### Lessons Learned:
 
 ### Future Plans
-1. **Adherence report generation for healthcare providers:** This feature is deferred to later iterations to maintain focus on the core needs.
+1. **Adherence report:** This feature is deferred to later iterations to maintain focus on the core needs.
 1. **Medication intake tracking:** While useful, this feature is not prioritized for the initial version.
 
 ### Contributing
