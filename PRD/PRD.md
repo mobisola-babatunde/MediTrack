@@ -118,8 +118,10 @@ The decision was made to focus on simplicity and ease of use for the users.
 
 ## Design and Development
 ### User Flow Diagram:
+<img width="4656" alt="User Flow Diagram for MediTrack - Healthcare Provider" src="https://github.com/user-attachments/assets/05119a2b-75b9-4290-9263-48af9dfb6898">
+User Flow Diagram for Healthcare Provider
 <img width="5879" alt="User Flow Diagram for MediTrack - Patient" src="https://github.com/user-attachments/assets/afa61edd-12a0-428c-b1c2-97ee4b1d115a">
-
+User Flow Diagram for Patient
 ### Wireframes:
 ### High-Fidelity Designs:
 ### Design Process:
@@ -172,16 +174,6 @@ User Story Map for Patient
 - **Adherence report: This feature is deferred to later iterations to maintain focus on the core needs.**
 
 - **Medication intake tracking:** While useful, this feature is not prioritized for the initial version.
-
-## User Experience (UX) and Design
-
-### Wireframes/Mockups: 
-
-### User Flow: 
-<img width="4656" alt="User Flow Diagram for MediTrack - Healthcare Provider" src="https://github.com/user-attachments/assets/7dd430f3-e8f3-4822-aedd-570ca364ca15">
-User Flow Diagram for Healthcare Provider
-<img width="5879" alt="User Flow Diagram for MediTrack - Patient" src="https://github.com/user-attachments/assets/aeeeb7dd-f246-48ec-aaea-2dcffbba0ebb">
-User Flow Diagram for Patient
 
 ## Technical Requirements
 
