@@ -1,6 +1,6 @@
 ## Product Requirements Document (PRD) - "MediTrack" a Medication Adherence App
 
-## 1. Introduction
+## Introduction
 
 ### Purpose: 
 
@@ -19,7 +19,7 @@ The product scope includes a platform that allows patients to enter medication d
 - Healthcare providers and pharmacy partners
 - Marketing and customer support teams 
 
-## 2. Problem Statement
+## Problem Statement
 
 ### Background: 
 
