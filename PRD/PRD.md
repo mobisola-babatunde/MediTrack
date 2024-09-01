@@ -162,7 +162,7 @@ User Story Map for Patient
 - **Adherence report generation:** The app generates detailed adherence reports for healthcare providers, summarizing a patient’s medication intake over a specified period. These reports can be used during consultations to adjust treatment plans.
 
 ### Feature Prioritization (Prioritized Using MoSCoW Framework):
-
+![MoSCoW Prioritization of Features](https://github.com/user-attachments/assets/796d1acb-c8f9-42fe-9c91-b9de5d0caa68)
 
 **Must-Have:**
 - **Medication reminders:** Ensures patients receive timely reminders to take their medications.
@@ -170,7 +170,9 @@ User Story Map for Patient
 - **Patient adherence monitoring:** Enables healthcare providers to track their patients' adherence remotely.
 
 **Should-Have:** 
-- *(We might consider adding features that enhance user engagement or improve the overall user experience in future iterations)*
+- **Adherence report: This feature is deferred to later iterations to maintain focus on the core needs.**
+
+- **Medication intake tracking:** 
 
 **Could-Have:**
 
@@ -178,9 +180,7 @@ User Story Map for Patient
 
 **Won't-Have (This Time):**
 
-- **Adherence report: This feature is deferred to later iterations to maintain focus on the core needs.**
-
-- **Medication intake tracking:** While useful, this feature is not prioritized for the initial version.
+- *(These features will not be implemented in this iteration but can be considered for future enhancements.)*
 
 ## Technical Requirements
 
