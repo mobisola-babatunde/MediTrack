@@ -162,7 +162,7 @@ User Story Map for Patient
 - **Adherence report generation:** The app generates detailed adherence reports for healthcare providers, summarizing a patient’s medication intake over a specified period. These reports can be used during consultations to adjust treatment plans.
 
 ### Feature Prioritization (Prioritized Using MoSCoW Framework):
-![MoSCoW Prioritization of Features - MediTrack](https://github.com/user-attachments/assets/72ed0cea-dead-4a72-bd78-5850bdca26f0)
+
 
 **Must-Have:**
 - **Medication reminders:** Ensures patients receive timely reminders to take their medications.
