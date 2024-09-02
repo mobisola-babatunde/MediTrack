@@ -119,25 +119,37 @@ The decision was made to focus on simplicity and ease of use for the users.
 ## Design and Development
 ### User Flow Diagram:
 
-![User Flow Diagram for MediTrack - Healthcare Provider Flow](https://github.com/user-attachments/assets/07403a83-c6d5-470b-b008-78eff038ca61)
+
 
 User Flow Diagram for Healthcare Provider
 
-![User Flow Diagram for MediTrack - Patient pdf](https://github.com/user-attachments/assets/2472347d-e3d8-4243-8cc9-dd61634889e2)
+![User Flow Diagram for MediTrack - Healthcare Provider](https://github.com/user-attachments/assets/3965cad3-3f92-4f2a-bba5-b1154d251327)
 
 User Flow Diagram for Patient
 
+![User Flow Diagram for MediTrack - Patient](https://github.com/user-attachments/assets/244147c6-3d28-4c71-9ebe-e990a552717a)
+
 ### Wireframes:
+
+![Uploading Detailed User Flow + Wireframe - Healthcare Provider.jpg…]()
+
+Wireframes for Healthcare Provider Screens
+
+![Uploading Detailed User Flow + Wireframe - Patient.jpg…]()
+
+Wireframes for Patient Screens
+
 ### High-Fidelity Designs:
+
 ### Design Process:
 Iterative design approach with feedback loops from potential users to refine UI/UX.
 ## User Story Map
 
-![User Story Map for MediTrack - Healthcare Provider](https://github.com/user-attachments/assets/bb8b0446-59f1-41e0-8abf-1c03508b6825)
+![User Story Map - Hea;thcare Provider](https://github.com/user-attachments/assets/b9e6c967-bf33-4a39-839e-ccce94f6824e)
 
 User Story Map for Healthcare Provider
 
-![User Story Map for MediTrack - Patient](https://github.com/user-attachments/assets/d5ec84a8-7f35-4e55-9447-c9ec2e86e0c8)
+![User Story Map - Patient](https://github.com/user-attachments/assets/401c823a-b89f-45c2-9ba3-b35904b69f2a)
 
 User Story Map for Patient
 
