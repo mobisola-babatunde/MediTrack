@@ -131,11 +131,13 @@ User Flow Diagram for Patient
 
 ### Wireframes:
 
-![Uploading Detailed User Flow + Wireframe - Healthcare Provider.jpg…]()
+![Detailed User Flow + Wireframe - Healthcare Provider](https://github.com/user-attachments/assets/91c7b55e-f3bc-4756-9f44-774bb948a7d7)
+
 
 Wireframes for Healthcare Provider Screens
 
-![Uploading Detailed User Flow + Wireframe - Patient.jpg…]()
+![Detailed User Flow + Wireframe - Patient](https://github.com/user-attachments/assets/7bb3a406-5104-48bd-8409-04ac05c1dc9e)
+
 
 Wireframes for Patient Screens
 
@@ -176,7 +178,8 @@ User Story Map for Patient
 - **Adherence report generation:** The app generates detailed adherence reports for healthcare providers, summarizing a patient’s medication intake over a specified period. These reports can be used during consultations to adjust treatment plans.
 
 ### Feature Prioritization (Prioritized Using MoSCoW Framework):
-![MoSCoW Prioritization of Features](https://github.com/user-attachments/assets/796d1acb-c8f9-42fe-9c91-b9de5d0caa68)
+
+![MoSCoW Prioritization of Features](https://github.com/user-attachments/assets/9caeae15-3642-4219-bcfb-6f997df1163d)
 
 **Must-Have:**
 - **Medication reminders:** Ensures patients receive timely reminders to take their medications.
