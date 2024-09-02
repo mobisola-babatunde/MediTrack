@@ -122,7 +122,8 @@ The decision was made to focus on simplicity and ease of use for the users.
 
 User Flow Diagram for Healthcare Provider
 
-<img width="6466" alt="User Flow Diagram for MediTrack Patient Flow" src="https://github.com/user-attachments/assets/83b04c3d-16dc-435c-bfbc-675d46624079">
+![Uploading User Flow Diagram for MediTrack - Patient.jpg…]()
+
 
 User Flow Diagram for Patient
 
