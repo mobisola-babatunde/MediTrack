@@ -177,31 +177,34 @@ User Story Map for Patient
 - **Medication intake tracking:** Patients can log when they take their medications, allowing them to track their adherence over time. The app provides a visual overview of their adherence patterns.
 - **Patient adherence monitoring:** Healthcare providers can remotely monitor their patients' medication adherence through a dashboard that shows real-time data on intake patterns and missed doses.
 - **Adherence report generation:** The app generates detailed adherence reports for healthcare providers, summarizing a patient’s medication intake over a specified period. These reports can be used during consultations to adjust treatment plans.
+- **Onboard Patients:** With this feature, healthcare providers would be able to onboard their patients right from their own device, this will be useful if they have patients that will find setting up medication regiments very cumbersome.
+- **Schedule Appointments:** This feature will allow healthcare providers schedule appointments with their patient using the app.
+- - **Edit/Add patient information:** This feature will enable healthcare providers to add patients that have already onboarded onto the platform and remove them right from the healthcare provider's device.
 
 ### Feature Prioritization (Prioritized Using MoSCoW Framework):
 
 ![MoSCoW Prioritization of Features](https://github.com/user-attachments/assets/9caeae15-3642-4219-bcfb-6f997df1163d)
 
 **Must-Have:**
-- **Medication reminders:** Ensures patients receive timely reminders to take their medications.
-- **Medication regimen setup:** Allows patients to easily input and manage their medication schedules.
-- **Patient adherence monitoring:** Enables healthcare providers to track their patients' adherence remotely.
+
+- **Medication reminders** 
+- **Medication regimen setup**
+- **Patient adherence monitoring** 
 
 **Should-Have:** 
-- **Adherence report: This feature is deferred to later iterations to maintain focus on the core needs.**
 
-- **Medication intake tracking:** 
+- **Adherence report**
+- **Medication intake tracking** 
 
 **Could-Have:**
 
-- **View Metrics:** This feature will allow user to view detailed metrics regarding their medical adherence.
+- **View Metrics** 
 
-**Won't-Have (This Time):**
+**Won't-Have (This Time):** *(These features will not be implemented in this iteration but can be considered for future enhancements.)*
 
-- *(These features will not be implemented in this iteration but can be considered for future enhancements.)*
-- **Onboard Patients: With this feature, healthcare providers would be able to onboard their patients right from their own device, this will be useful if they have patients that will find setting up medication regiments very cumbersome**
-- **Schedule Appointments: This feature will allow healthcare providers schedule appointments with their patient using the app.**
-- **Edit/Add patient information: This feature will enable healthcare providers to add patients that have already onboarded onto the platform and remove them right from the healthcare provider's device.**
+- **Onboard Patients**
+- **Schedule Appointments**
+- **Edit/Add patient information** 
 
 ## Technical Requirements
 
