@@ -118,12 +118,12 @@ The decision was made to focus on simplicity and ease of use for the users.
 
 ## Design and Development
 ### User Flow Diagram:
-<img width="4546" alt="User Flow Diagram for MediTrack - Healthcare Provider Flow" src="https://github.com/user-attachments/assets/c822f379-0855-4481-ba16-01f0a46184d9">
+
+![User Flow Diagram for MediTrack - Healthcare Provider Flow](https://github.com/user-attachments/assets/07403a83-c6d5-470b-b008-78eff038ca61)
 
 User Flow Diagram for Healthcare Provider
 
-![User Flow Diagram for MediTrack - Patient](https://github.com/user-attachments/assets/1b600141-83e1-482b-a060-6ad1ca9172df)
-
+![User Flow Diagram for MediTrack - Patient pdf](https://github.com/user-attachments/assets/2472347d-e3d8-4243-8cc9-dd61634889e2)
 
 User Flow Diagram for Patient
 
@@ -132,7 +132,8 @@ User Flow Diagram for Patient
 ### Design Process:
 Iterative design approach with feedback loops from potential users to refine UI/UX.
 ## User Story Map
-![User Story Map for MediTrack - Healthcare Provider](https://github.com/user-attachments/assets/b0bc1c14-6c7d-40d7-81b6-0aec8056c3ac)
+
+![User Story Map for MediTrack - Healthcare Provider](https://github.com/user-attachments/assets/bb8b0446-59f1-41e0-8abf-1c03508b6825)
 
 User Story Map for Healthcare Provider
 
