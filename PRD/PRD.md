@@ -179,7 +179,7 @@ User Story Map for Patient
 - **Adherence report generation:** The app generates detailed adherence reports for healthcare providers, summarizing a patient’s medication intake over a specified period. These reports can be used during consultations to adjust treatment plans.
 - **Onboard Patients:** With this feature, healthcare providers would be able to onboard their patients right from their own device, this will be useful if they have patients that will find setting up medication regiments very cumbersome.
 - **Schedule Appointments:** This feature will allow healthcare providers schedule appointments with their patient using the app.
-- - **Edit/Add patient information:** This feature will enable healthcare providers to add patients that have already onboarded onto the platform and remove them right from the healthcare provider's device.
+- **Edit/Add patient information:** This feature will enable healthcare providers to add patients that have already onboarded onto the platform and remove them right from the healthcare provider's device.
 
 ### Feature Prioritization (Prioritized Using MoSCoW Framework):
 
