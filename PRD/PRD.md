@@ -127,7 +127,8 @@ User Flow Diagram for Healthcare Provider
 
 User Flow Diagram for Patient
 
-![User Flow Diagram for MediTrack - Patient](https://github.com/user-attachments/assets/244147c6-3d28-4c71-9ebe-e990a552717a)
+![User Flow Diagram for MediTrack - Patient](https://github.com/user-attachments/assets/dda862aa-132f-4e9a-9621-5c871e2ccd74)
+
 
 ### Wireframes:
 
@@ -151,7 +152,7 @@ Iterative design approach with feedback loops from potential users to refine UI/
 
 User Story Map for Healthcare Provider
 
-![User Story Map - Patient](https://github.com/user-attachments/assets/401c823a-b89f-45c2-9ba3-b35904b69f2a)
+![User Story Map - Patient](https://github.com/user-attachments/assets/731aa3c7-f2a8-476d-832a-9bfb0d597937)
 
 User Story Map for Patient
 
@@ -193,11 +194,14 @@ User Story Map for Patient
 
 **Could-Have:**
 
-- *(These features are not included for this iteration but can be considered for future enhancements.)*
+- **View Metrics:** This feature will allow user to view detailed metrics regarding their medical adherence.
 
 **Won't-Have (This Time):**
 
 - *(These features will not be implemented in this iteration but can be considered for future enhancements.)*
+- **Onboard Patients: With this feature, healthcare providers would be able to onboard their patients right from their own device, this will be useful if they have patients that will find setting up medication regiments very cumbersome**
+- **Schedule Appointments: This feature will allow healthcare providers schedule appointments with their patient using the app.**
+- **Edit/Add patient information: This feature will enable healthcare providers to add patients that have already onboarded onto the platform and remove them right from the healthcare provider's device.**
 
 ## Technical Requirements
 
