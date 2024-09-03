@@ -80,7 +80,7 @@ Healthcare Providers:
 ## User Personas and Use Cases
 ### User Persona
 **Persona 1: Sarah, (Chronic Patient)**
-- Age: 45
+- Age: 65
 - Occupation: Office Manager
 - Health Condition: Hypertension and Type 2 Diabetes
 - Tech Savviness: Moderate; uses smartphone apps for communication
@@ -150,7 +150,8 @@ Wireframes for Patient Screens
 Iterative design approach with feedback loops from potential users to refine UI/UX.
 ## User Story Map
 
-![User Story Map - Hea;thcare Provider](https://github.com/user-attachments/assets/b9e6c967-bf33-4a39-839e-ccce94f6824e)
+![User Story Map - Healthcare Provider](https://github.com/user-attachments/assets/2dabe72c-766a-4451-af88-3f2b25127829)
+
 
 User Story Map for Healthcare Provider
 
@@ -182,10 +183,11 @@ User Story Map for Patient
 - **Onboard Patients:** With this feature, healthcare providers would be able to onboard their patients right from their own device, this will be useful if they have patients that will find setting up medication regiments very cumbersome.
 - **Schedule Appointments:** This feature will allow healthcare providers schedule appointments with their patient using the app.
 - **Edit/Add patient information:** This feature will enable healthcare providers to add patients that have already onboarded onto the platform and remove them right from the healthcare provider's device.
+- **Add patient's medical condition and medication regimen:** This feature will enable healthcare providers to setup the patient's medical condition details and medication regimen, it is useful if the patient finds setting up these details and information cumbersome.
 
 ### Feature Prioritization (Prioritized Using MoSCoW Framework):
 
-![MoSCoW Prioritization of Features](https://github.com/user-attachments/assets/9caeae15-3642-4219-bcfb-6f997df1163d)
+![MoSCoW Prioritization of Features](https://github.com/user-attachments/assets/3c1c0e4e-b4c0-4db5-af92-ac880d8baf9f)
 
 **Must-Have:**
 
@@ -206,7 +208,8 @@ User Story Map for Patient
 
 - **Onboard Patients**
 - **Schedule Appointments**
-- **Edit/Add patient information** 
+- **Edit/Add patient information**
+- **Add Patient's medical condition & medication regimen**
 
 ## Technical Requirements
 
