@@ -30,6 +30,8 @@ Here are the wireframes and UI/UX designs for the app:
 - **Wireframes:**
 
 - **High-Fidelity UI Designs:**
+  
+![High-Fidelity Designs for MediTrack](https://github.com/user-attachments/assets/3f995582-b702-43d5-901b-e814252e58e8)
 
 ### Technology Stack
 This section outlines the technology that the app will be built upon:
