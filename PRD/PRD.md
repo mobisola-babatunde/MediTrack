@@ -144,6 +144,8 @@ Wireframes for Patient Screens
 
 ### High-Fidelity Designs:
 
+![High-Fidelity Designs for MediTrack](https://github.com/user-attachments/assets/01a2d19b-6dc6-4eea-8920-b547723920a3)
+
 ### Design Process:
 Iterative design approach with feedback loops from potential users to refine UI/UX.
 ## User Story Map
