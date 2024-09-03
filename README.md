@@ -28,6 +28,11 @@ The MediTrack project is a digital medication adherence solution designed to bri
 ### Wireframes & UI/UX Designs
 Here are the wireframes and UI/UX designs for the app:
 - **Wireframes:**
+![Detailed User Flow + Wireframe - Healthcare Provider](https://github.com/user-attachments/assets/8d77aa3f-5093-4bf5-9c31-e280c871dc7c)
+Wireframes for healthcare provider flow
+
+![Detailed User Flow + Wireframe - Patient](https://github.com/user-attachments/assets/29c827db-153a-4e52-9ad0-e2b766aa7787)
+Wireframes for patient flow
 
 - **High-Fidelity UI Designs:**
   
