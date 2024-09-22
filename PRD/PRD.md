@@ -68,6 +68,7 @@ MediTrack offers a seamless connection between patients and healthcare providers
 - Allow me to set up my medication schedule without complexity.
 - Help me remember to take my medication as prescribed.
 - Help me track my medication adherence to see my progress.
+
 **Healthcare Providers:**
 - Help me track my patients' adherence to improve their treatment outcomes.
 - Provide me with insights into my patients’ medication habits to enhance their care plans.
